@@ -1,4 +1,4 @@
-# Dailytosh
+# DailyTosh
 MacIntosh inspired **custom e-ink dashboard** featuring the hottest big-tech updates (+ the weather) and doubling as a business card holder!
 
 **Photos:**
@@ -24,13 +24,13 @@ Every morning, before heading out to school or work, I usually *check the weathe
 - Doubles as a business card holder with its disk opening
 
 ## How It Works
-Dailytosh is ESP32 based and uses a Waveshare E-Ink display
+DailyTosh is ESP32 based and uses a Waveshare E-Ink display
 
 1. The ESP32 connects to Wi-Fi
 2. It fetches data from OpenWeatherMap API (weather data) and Finnhub API (market and news data)
 3. Data is processed and displayd with a dashboard layout
 4. This process refreshes every 24 hours
-5. Dailytosh also includes a power switch!
+5. DailyTosh also includes a power switch!
 
 **Wiring Diagram**
 
