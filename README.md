@@ -71,3 +71,10 @@ https://www.theguardian.com/games/2020/sep/07/the-20-greatest-home-computers-ran
 
 
 **Apple Macintosh (1984)**: The design and the name of DailyTosh is inspired by the original Macintosh computer
+
+### CAD Models
+These CAD models from GrabCAD were used in the Assembly for visualization purposes
+- ESP-WROOM-32 model
+- 4.2" Waveshare E-Ink Display
+- Mini breadboard
+- 4xAA Battery Holder
