@@ -1,5 +1,5 @@
 # Dailytosh
-MacIntosh inspired **custom e-ink dashboard** featuring the hottest big-tech updates! (and the weather)
+MacIntosh inspired **custom e-ink dashboard** featuring the hottest big-tech updates (+ the weather) and doubling as a business card holder!
 
 **Photos:**
 
@@ -9,7 +9,7 @@ MacIntosh inspired **custom e-ink dashboard** featuring the hottest big-tech upd
 ![inside](images/inside.png)
 
 ## Why I made this project
-Every morning, before heading out to school or work, I usually *check the weather, listen to WSJ Tech News Briefing and view market updates*. I realized a custon e-ink dashboard displaying all of this information would keep me informed more effotlessly! I was also interested in how E-Ink displays can fetch and display live information over Wi-Fi.
+Every morning, before heading out to school or work, I usually *check the weather, listen to WSJ Tech News Briefing and view market updates*. I realized a custon e-ink dashboard displaying all of this information would keep me informed more effotlessly! I was also interested in how E-Ink displays can fetch and display live information over Wi-Fi, and needed a better place to store my business cards.
 
 *Built for Hack Club Stasis^^*
 
@@ -21,6 +21,7 @@ Every morning, before heading out to school or work, I usually *check the weathe
     - Rainy/snowy/windy weather -> work from home
     - Cloudy weather -> work at a coffee shop/library
 - Uses an E-Ink display for less power consumption
+- Doubles as a business card holder with its disk opening
 
 ## How It Works
 Dailytosh is ESP32 based and uses a Waveshare E-Ink display
