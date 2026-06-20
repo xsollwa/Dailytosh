@@ -1,5 +1,5 @@
 # Dailytosh
-MacIntosh inspired custom e-ink dashboard featuring the hottest big tech updates!
+MacIntosh inspired **custom e-ink dashboard** featuring the hottest big-tech updates!
 
 **Photos:**
 
@@ -9,12 +9,12 @@ MacIntosh inspired custom e-ink dashboard featuring the hottest big tech updates
 ![inside](images/inside.png)
 
 ## Why I made this project
-Every morning, before heading out to school or work, I usually check the weather, listen to WSJ Tech News Briefing and view market updates. I realized a custon e-ink dashboard displaying all of this information would keep me informed more effotlessly! I was also interested in how E-Ink displays can fetch and display live information over Wi-Fi.
+Every morning, before heading out to school or work, I usually *check the weather, listen to WSJ Tech News Briefing and view market updates*. I realized a custon e-ink dashboard displaying all of this information would keep me informed more effotlessly! I was also interested in how E-Ink displays can fetch and display live information over Wi-Fi.
 
 *Built for Hack Club Stasis^^*
 
 ## Features
-- Displays the most important big tech news
+- Displays the most important big-tech news
 - Shows major technology sector market changes
 - Shares the weather of the day and suggests ideal workspace based on weather conditions 
     - Nice weather -> work outside
@@ -32,6 +32,7 @@ Dailytosh is ESP32 based and uses a Waveshare E-Ink display
 5. Dailytosh also includes a power switch!
 
 **Wiring Diagram**
+
 ![Wiring Diagram](images/wiringDiagram.png)
 
 ## Bill of Materials (BOM)
@@ -54,4 +55,19 @@ Dailytosh is ESP32 based and uses a Waveshare E-Ink display
 
 **Grand Total:** $63.21
 
+## References
+I used several resources for inspiration, learning and visualization purposes
 
+### Tutorials
+**ESP32 and Waveshare E-Ink Display Tutorial from YouTube:** Used to learn how to connect a Waveshare E-Ink display to an ESP32
+
+https://youtu.be/El38zVmog14?si=65B1_IF447uCydue
+
+
+### Design Inspiration
+**The 20 Greatest Home Computers – The Guardian**: Reading through this article showed me a lot of cool famous computer designs
+
+https://www.theguardian.com/games/2020/sep/07/the-20-greatest-home-computers-ranked
+
+
+**Apple Macintosh (1984)**: The design and the name of DailyTosh is inspired by the original Macintosh computer
