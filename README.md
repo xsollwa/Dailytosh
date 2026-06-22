@@ -40,7 +40,7 @@ DailyTosh is ESP32 based and uses a Waveshare E-Ink display
 
 The ESP32 firmware *fetches weather, market and news data* from 2 APIs, processes the information and renders a custom dashboard on the E-Ink display.
 
-**A custom filtering algorithm** scans over 100 big-tech keywords (for example " ai ", "amd", "semiconductor") to find the most relevant technology headlines on Finnhub. The firmware automatically *refreshes every 24 hours* and was originally developed as a **desktop C++ simulator** before being converted into ESP32 firmware in Arduino.
+**A custom filtering algorithm** scans over 100 big-tech keywords (for example " ai ", "amd", "semiconductor") to find the most relevant technology headlines on Finnhub. The firmware *refreshes every 24 hours* and was first developed as a **desktop C++ simulator** before being converted into ESP32 firmware in Arduino.
 
 ## Bill of Materials (BOM)
 
