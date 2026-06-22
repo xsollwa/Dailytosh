@@ -30,8 +30,7 @@ DailyTosh is ESP32 based and uses a Waveshare E-Ink display
 1. The ESP32 connects to Wi-Fi
 2. It fetches data from OpenWeatherMap API (weather data) and Finnhub API (market and news data)
 3. Data is processed and displayd with a dashboard layout
-4. This process refreshes every 24 hours
-5. DailyTosh also includes a power switch!
+4. DailyTosh also includes a power switch!
 
 ### Wiring Diagram
 
