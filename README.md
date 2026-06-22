@@ -7,6 +7,7 @@ MacIntosh inspired **custom e-ink dashboard** featuring the hottest big-tech upd
 ![Front](images/front.png)
 ![Back](images/back.png)
 ![inside](images/inside.png)
+![display](images/display.png)
 
 ## Why I made this project
 Every morning, before heading out to school or work, I usually *check the weather, listen to WSJ Tech News Briefing and view market updates*. I realized a custon e-ink dashboard displaying all of this information would keep me informed more effotlessly! I was also interested in how E-Ink displays can fetch and display live information over Wi-Fi, and needed a better place to store my business cards.
@@ -32,9 +33,15 @@ DailyTosh is ESP32 based and uses a Waveshare E-Ink display
 4. This process refreshes every 24 hours
 5. DailyTosh also includes a power switch!
 
-**Wiring Diagram**
+### Wiring Diagram
 
 ![Wiring Diagram](images/wiringDiagram.png)
+
+### Firmware
+
+The ESP32 firmware *fetches weather, market and news data* from 2 APIs, processes the information and renders a custom dashboard on the E-Ink display.
+
+**A custom filtering algorithm** scans over 100 big-tech keywords (for example " ai ", "amd", "semiconductor") to find the most relevant technology headlines on Finnhub. The firmware automatically *refreshes every 24 hours* and was originally developed as a **desktop C++ simulator** before being converted into ESP32 firmware in Arduino.
 
 ## Bill of Materials (BOM)
 
