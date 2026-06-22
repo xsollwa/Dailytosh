@@ -1,0 +1,12 @@
+Component,Purpose,Quantity,Total Price,Link,Distributor
+Switch,Turning the power on/off,1,$0.00,https://a.co/d/0hRUtY8s,"N/A, I have it      "
+"M3 bolts, nuts and threaded inserts                $0.00        -        N/A, I have it        ",Mounting the components ,10,$0.00,N/A,"N/A, I have it      "
+Cream PLA,Printing the case,1,$0.00,https://a.co/d/07ec5Kyy,"N/A, I have it      "
+Micro USB Cable  ,Programming the ESP32 ,1,$6.99,https://a.co/d/0cJpSzp2,Amazon
+Mini breadboard and jumping wires  ,Connecting the circuit  ,1,$0.00,https://a.co/d/0ctxR1cS,"N/A, I have it      "
+AA batteries ,Powering the circuit,4,$0.00,N/A,"N/A, I have it      "
+4 AA Battery Holder,Holding the batteries ,1,$0.00,https://a.co/d/0bJuIjxS,"N/A, I have it      "
+ESP-WROOM-32,Processing and displaying info,1,$9.39,https://a.co/d/0hTfNaHV,Amazon
+4.2inch E-Ink display w/ matching cable,Displaying information on the dashboard,1,$34.99,https://www.waveshare.com/4.2inch-e-paper-module.htm,Waveshare
+,Tax: $1.84,Shipping: $10.00,,,
+,Total: $63.21,,,,
