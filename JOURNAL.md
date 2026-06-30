@@ -13,7 +13,7 @@ After I got the software to work properly, I started assembling the full circuit
 <img width="600" height="732" alt="IMG_9170" src="https://github.com/user-attachments/assets/acb6c92f-5928-4055-a4f0-a7de5e8ad9fe" />
 
 
-# 6/29/2026 7 PM - Testing Hardware and Fixing Software
+# 6/29/2026 9 PM - Testing Hardware and Fixing Software
 
 _Time spent: 4h_
 
