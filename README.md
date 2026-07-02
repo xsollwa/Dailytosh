@@ -1,7 +1,11 @@
 # DailyTosh
 MacIntosh inspired **custom e-ink dashboard** featuring the hottest big-tech updates (+ the weather) and doubling as a business card holder!
+**![Click for the demo video](https://youtube.com/shorts/gpUzyWor4Is?si=P06r30rTWRMrz-e_)**
 
 **Photos:**
+
+<img width="400" height="500" alt="IMG_9218" src="https://github.com/user-attachments/assets/76245671-a96c-4fed-be95-6c4bb6965a63" />
+<img width="400" height="500" alt="IMG_9220" src="https://github.com/user-attachments/assets/f9d575a5-70e9-4e98-9147-6e393069ca85" />
 
 ![Side](images/leftSide.png)
 ![Front](images/front.png)
@@ -12,7 +16,7 @@ MacIntosh inspired **custom e-ink dashboard** featuring the hottest big-tech upd
 ## Why I made this project
 Every morning, before heading out to school or work, I usually *check the weather, listen to WSJ Tech News Briefing and view market updates*. I realized a custon e-ink dashboard displaying all of this information would keep me informed more effotlessly! I was also interested in how E-Ink displays can fetch and display live information over Wi-Fi, and needed a better place to store my business cards.
 
-*Built for Hack Club Stasis^^*
+*Built for Hack Club Outpost^^*
 
 ## Features
 - Displays the most important big-tech news
