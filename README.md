@@ -1,6 +1,7 @@
 # DailyTosh
 MacIntosh inspired **custom e-ink dashboard** featuring the hottest big-tech updates (+ the weather) and doubling as a business card holder!
-**[Click for the demo video](https://youtube.com/shorts/gpUzyWor4Is?si=P06r30rTWRMrz-e_)**
+
+[Click here for the demo video.](https://youtube.com/shorts/gpUzyWor4Is?si=RLWrw7KMKyLjlZAB)
 
 **Photos:**
 
